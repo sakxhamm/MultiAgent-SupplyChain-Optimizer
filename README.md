@@ -64,9 +64,6 @@ See the respective README files in the `python/` and `dotnet/` directories for d
 
 This is a personal project. Contributions and suggestions are welcome.
 
-## License
-
-MIT License - See LICENSE file for details
 
 ## Author
 
